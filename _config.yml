@@ -11,7 +11,7 @@ title                    : "Sreevani Jarugula / Site Title"
 title_separator          : "-"
 name                     : &name "Sreevani Jarugula"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jsv1206.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jsv1206/jsv1206.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Sreevani Jarugula"
-  avatar           : "photo_sreevanijarugula.jpg"
-  bio              : "Post Doctoral Research Associate"
+  avatar           : "photo_sreevanijarugula.jpeg"
+  bio              : "Astronomer\\Cosmology with strong gravitaional lensing\\Machine Learning"
   location         : "Fermilab"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -105,7 +105,7 @@ author:
   linkedin         : "https://www.linkedin.com/in/sreevanijarugula/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5386-7076"
   pinterest        :
-  soundcloud       :
+  ads              : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
